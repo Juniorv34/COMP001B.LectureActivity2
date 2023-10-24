@@ -1,0 +1,24 @@
+h1{
+   background-color: red;
+   color: blue;
+   margin: 10px 20px 20px 30px ;
+}
+p.first{
+   background-color: orange;
+   color:red;
+   border-radius: 15px;
+   border: 3px solid red;
+   font-weight:bold;
+   width:200px;
+}
+p.second{
+    background-color: rgb(38, 0, 255);
+    color:yellow;
+    border-radius: 15px;
+    border: 3px solid yellow;
+    font-weight:bold;
+    width: 200px;
+}
+p.margin{
+    margin: 0 auto;
+}
